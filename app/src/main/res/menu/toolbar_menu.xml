@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_diziler"
+        android:title="Diziler"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_filmler"
+        android:title="Filmler"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_listem"
+        android:title="Listem"
+        app:showAsAction="always" />
+</menu>
